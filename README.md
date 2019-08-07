@@ -7,18 +7,18 @@ A set of macros made to make using the discord bot PokeCord a bit easier!
 # Current Features
 
 * Alt + < (,)
- * "p!back"
+  * "p!back"
 * Alt + > (.)
- * "p!next"
+  * "p!next"
 * Alt + S
- * "p!select"
+  * "p!select"
 * Alt + D
   * "p!pokedex"
  * Alt + N
-  * "p!nickname"
+   * "p!nickname"
  * Alt + H
-  * "p!hint"
+   * "p!hint"
  * Alt + -
-  * "p!dropitem"
+   * "p!dropitem"
  * Alt + =
-  * "p!moveitem"
+   * "p!moveitem"
